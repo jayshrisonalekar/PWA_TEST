@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.github.twa",
-        "sha256_cert_fingerprints": ["19:BF:07:5C:E5:B3:8B:61:5E:B1:1A:9A:1B:BA:43:B2:DE:B3:B9:F0:2D:A8:F0:06:4E:56:BF:33:E7:F2:3E:4E"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "vidyback.pwa.test",
+    "sha256_cert_fingerprints": ["F1:51:52:06:82:DA:71:27:9C:EB:B2:A8:5C:47:D8:45:A1:76:72:E0:56:89:A7:61:C7:19:F8:69:07:19:6E:A0"]
+  }
+}]
