@@ -9,7 +9,7 @@ importScripts(
 self.addEventListener('widgetinstall', (event) => {
     event.waitUntil(updateWidget(event));
 });
-
+d
 // When widget is shown, update content to ensure it is up-to-date.
 self.addEventListener('widgetresume', (event) => {
     event.waitUntil(updateWidget(event));
